@@ -1,57 +1,67 @@
-also remove image=
-Apply=
-Are you sure=Are you sure?
-Cancel=
-checking=
-Completely REMOVE=
-Console=
-day=
-days=
-disk image and definition=
-Disks=
-Done=
-Edit=
-Execution error=
-Force Stop=
-Hibernate=
-Log for=Log for:
-log=
-Logs=
-More Info=
-No=
-OK=
-Ok=
-Pause=
-Proceed=
-Project Page=
-Remove container=
-Remove definition=
-Remove image=
-Remove VM=
-Remove=
-Restart=
-Resume=
-Start=
-Stop=
-Support=
-Update container=
-Update=
-Updating all Containers=
-Updating the container=
-VNC Remote=
-WebUI=
-Yes, delete it=Yes, delete it!
-Yes, update it=Yes, update it!
-Yes=
+also remove image=Fjern også bildefil
+Apply=Bruk
+Are you sure=Er du sikker?
+Cancel=Avbryt
+checking=sjekker
+Completely REMOVE=Fjern fullstendig
+Console=Konsoll
+day=dag
+days=dager
+disk image and definition=bildefil og definisjoner
+Disks=Disker
+Done=Ferdig
+Edit=Rediger
+Execution error=Kjørefeil
+Force Stop=Tving stopp
+Hibernate=Hvilemodus
+Log for=Logg for:
+log=logg
+Logs=Logger
+More Info=Mer info
+No=Nei
+OK=OK
+Ok=Ok
+Pause=Pause
+Proceed=Fortsett
+Project Page=Prosjektside
+Remove container=Fjern container
+Remove definition=Fjern definisjoner
+Remove image=Fjern bildefil
+Remove VM=Fjern VM
+Remove=Fjern
+Restart=Restart
+Resume=Fortsett
+Start=Start
+Stop=Stopp
+Support=Brukerstøtte
+Update container=Oppdater container
+Update=Oppdater
+Updating all Containers=Oppdaterer alle containere
+Updating the container=Oppdaterer containeren
+VNC Remote=VNC fjernstyring
+WebUI=Webgrensesnitt
+Yes, delete it=Ja, slett den!
+Yes, update it=Ja, oppdater den!
+Yes=Ja
 
 ; footer messages
-Array Starting=
-Array Stopping=
-Mounting disks=
-Spinning up all drives=
-Starting services=
-Stopping services=
-Unmounting disks=
-Autostart disabled=
-Missing encryption key=
-Opening encrypted volumes=
+Array Starting=Starter arrayet
+Array Stopping=Stopper arrayet
+Mounting disks=Monterer disker
+Spinning up all drives=Spinner opp alle disker
+Starting services=Starter tjenester
+Stopping services=Stopper tjenester
+Unmounting disks=Avmonterer disker
+Autostart disabled=Autostart deaktivert
+Missing encryption key=Mangler krypteringsnøkkel
+Opening encrypted volumes=Åpner krypterte filarkiv
+
+
+
+
+
+
+
+
+
+
