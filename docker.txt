@@ -33,6 +33,7 @@ Default Value=Standardverdi
 Device=Enhet
 Display=Skjerm
 DNS=DNS
+Docker Containers=
 Docker Hub URL=Docker HUB URL
 Docker Service failed to start=Dockertjenester kunne ikke starte
 Donation Link=Donasjonslink
