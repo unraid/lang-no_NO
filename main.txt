@@ -67,6 +67,7 @@ Do not use user share names=Ikke bruk navn som blir brukt i delte mapper
 Download SMART report=Last ned SMART-rapport
 Dual parity valid requires ALL disks in their original slots=For at *dobbel paritet* skal være gyldig må *alle* disker være i deres originale spor
 Elapsed time=Tid brukt
+Enable user share assignment=
 encrypted=kryptert
 Encryption input=Kryptering inn
 Encryption status=Krypteringsstatus
