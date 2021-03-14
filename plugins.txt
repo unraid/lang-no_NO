@@ -27,3 +27,5 @@ Uninstall=Avinstaller
 Update All Plugins=Oppdater alle programtillegg
 Upgrade=Oppgrader
 View Release Notes=Se utgivelsesnotater
+; New entries - 2021-03-14
+No plugins installed=

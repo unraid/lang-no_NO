@@ -128,3 +128,11 @@ Was this container created using this plugin=Ble denne containeren skapt med det
 Web=Web
 WebUI=Webgrensesnitt
 Writable=Skrivetilgang
+
+; New entries - 2021-03-14
+Drivers=
+Reset sorting=
+Start Container After Install=
+
+; New entries - 2021-03-14
+Total size=
