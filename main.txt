@@ -151,9 +151,9 @@ Passphrase=Passord
 Perform full balance=Gjennomfør full balansering
 Permit UEFI boot mode=Tillat UEFI-startmodus
 Please check your system settings to support UEFI boot mode=Vennligst kontroller at ditt system støtter UEFI-startmodus
-Pool Devices=Diskgruppe enheter
+Pool Devices=buffer enheter
 Pool name already exists=Diskgruppenavnet eksisterer allerede
-Pool of %s devices=Diskgruppe %s
+Pool of %s devices=Antall enheter %s i buffer 
 Preclear in progress=Forhåndssjekk pågår
 Printable Characters Only=Kun utskrivbare tegn
 Proceed to start=Fortsett til start
@@ -312,9 +312,9 @@ will expand the file system of the data disk if possible then bring the array on
 
 ; New entries - 2021-03-14
 auto=
-Click on FLASH above this message=Click on **FLASH** above this message
-Convert to raid1c3 mode=
-Convert to raid1c4 mode=
-Flash device is set as public share=
-Please change share SMB security=
-See %s Settings=
+Click on FLASH above this message=Klikk på **FLASH** over denne meldingen
+Convert to raid1c3 mode=Konverter til raid1c3 modus
+Convert to raid1c4 mode=Konverter til raid1c4 modus
+Flash device is set as public share=Flash enhet er satt som offentlig mappe
+Please change share SMB security=Vennligst endre den delte mappen SMB sine sikkerhetsinnstillinger
+See %s Settings=Se %s Innstillinger

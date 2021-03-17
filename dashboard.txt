@@ -102,4 +102,4 @@ utilization warning=plassvarsel
 View Running Processes=Se kjørende prosesser
 Virtual Machines=Virtuelle maskiner
 ; New entries - 2021-03-14
-Temp=
+Temp=Temperatur
