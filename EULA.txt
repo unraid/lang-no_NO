@@ -1,0 +1,66 @@
+EULA
+SLUTBRUKERLISENSAVTALE FOR LIME TECHNOLOGY PROGRAMVAREPRODUKT
+
+26. AUGUST 2005. Revidert: 11. JUNI 2008; 1. DESEMBER 2013; 1. JUNI 2014; 25. SEPTEMBER 2014; 10. FEBRUAR 2015; 7. JULI 2016; 12. SEPTEMBER 2018
+
+Denne lisensavtalen for sluttbrukere ("EULA") er en kontrakt mellom deg (enten en person eller en enhet) og Lime Technology, Inc. ("Lime Technology"), som styrer din bruk av operativsystemet Lime Technology Unraid (tm) programvare. Les vilkårene i denne lisensavtalen nøye. Ved å installere, kopiere eller på annen måte bruke programvaren (som definert nedenfor), godtar du å være bundet av vilkårene i denne EULA. Hvis du ikke er enig i vilkårene i denne EULA, har du ikke lov til å installere, kopiere eller bruke programvaren.
+
+DEFINISJONER
+
+"Programvare" betyr denne programvarepakken for Lime Technology Unraid Operating System, inkludert programvareproduktet Unraid System Management Utility (emhttp og webGui), User Share File System (shfs) og forskjellige Open Source Software-komponenter, samt tilhørende medier, trykt materiale og elektronisk eller elektronisk dokumentasjon.
+
+"Åpen kildekodeprogramvare" betyr forskjellige programvarekomponenter med åpen kildekode, inkludert, uten begrensning, Linux, Samba, Netatalk, DHCP og GlibC lisensiert i henhold til vilkårene i gjeldende åpen kildekode lisensavtaler inkludert i materialet knyttet til slik programvare.
+
+ÅPEN KILDEPROGRAMVARE
+
+Open Source-programvaren består av individuelle programvarekomponenter, som hver har sin egen copyright og sine egne gjeldende lisensbetingelser. Du må gjennomgå lisensene i de enkelte pakkene for å forstå rettighetene dine under dem. Opphavsrett til programvaren med åpen kildekode eies av opphavsrettsinnehaverne angitt i merknadene i de tilsvarende kildefilene eller i annet materiale som følger med programvarepakken.
+
+BEGRENSET LISENS
+
+Lime Technology gir deg en begrenset, tilbakekallbar, ikke-eksklusiv, ikke-overførbar lisens for å installere og bruke programvaren til din egen personlige eller interne forretningsbruk. Hvis Lime Technology gir en oppgradering eller oppdatering av programvaren som tidligere er lisensiert til deg, vil vilkårene i denne lisensavtalen fortsette å gjelde for en slik oppgradert eller oppdatert versjon.
+
+BEGRENSNINGER
+
+Du kan ikke kopiere programvaren med unntak av et rimelig antall maskinlesbare kopier av programvaren for sikkerhetskopiering eller arkivering. Du kan ikke fjerne titler, varemerker eller handelsnavn, merknader om opphavsrett, legender eller andre proprietære markeringer på programvaren. Du kan ikke videreselge, eller på annen måte overføre eller dele programvaren. Du kan ikke reversere, dekompilere eller demontere programvaren. Du kan ikke bruke programvaren til ulovlige eller uautoriserte formål.
+PROPRIETARY RIGHTS RESERVED BY LIME TECHNOLOGY
+
+Lime Technology beholder all rett, tittel og interesse for og til programvaren og i alle relaterte opphavsrettigheter, forretningshemmeligheter, patenter, varemerker og annen immateriell og industriell eiendom og eiendomsrettigheter, inkludert registreringer, applikasjoner, fornyelser og utvidelser av slike rettigheter. Lime Technology beholder alle rettigheter som ikke er uttrykkelig gitt til deg.
+
+PRØVEVERSJON
+
+"Trial Versin" betyr en versjon av programvaren som kun skal brukes til å gjennomgå, demonstrere og evaluere programvaren i en begrenset periode. Bruk av programvareversjonen krever at du skaffer en prøveregistreringsnøkkel fra Lime Technology. Testnøkler sendt via e-post krever at du godtar å oppgi en gyldig e-postadresse for å motta nøkkelen. Du kan bare registrere en prøvenøkkel per server.
+
+Selv om det ikke betales lisensavgift for bruk av prøveversjonsprogramvare, betyr det ikke at det ikke er noen betingelser for bruk av slik programvare. Ved å installere, kopiere eller på annen måte bruke programvaren godtar du å være bundet av vilkårene i denne EULA. Hvis du ikke godtar vilkårene i denne lisensavtalen, må du ikke installere eller bruke programvaren.
+
+AVSLUTNING
+
+Lisensen gjelder til den blir sagt opp av deg eller Lime Technology. Dine rettigheter under denne lisensen opphører automatisk uten varsel hvis du ikke overholder noen vilkår i denne lisensen. I tilfelle avslutning, må du ødelegge alle kopier av programvaren og fjerne alle kopier av programvaren fra hvilken som helst datamaskin (er) den er installert på.
+
+INSTALLASJON AV TREDJEPARTS PROGRAMVARE
+
+Enhver installasjon og / eller bruk av tredjepartsprogramvare, inkludert tilleggsprogrammer, utvidelser, plugins, containere, bilder av virtuelle maskiner osv. ER ENESTELT PÅ EGEN RISIKO. Lime Technology anbefaler ikke eller støtter tredjepartsprogramvare for noe bestemt formål, og tar ikke noe ansvar for bruken av dem.
+
+INGEN GARANTI
+
+DU ANERKENDER UTTRYKKLIG OG ER ENIG I AT BRUK AV PROGRAMVAREN ER PÅ DIN ENESTE RISIKO, OG PROGRAMVAREN LEVERES "SOM DET ER" MED ALLE FEIL OG UTEN GARANTI FOR NOE SLIK, OG PROGRAMVARLEVERANDØR VILKÅR ANSVAR FOR ALLE GARANTIER OG RETT TJENESTER, UTTRYKKELIG, UNDERFORSTÅTT ELLER STATUTORISK, INKLUDERENDE, MEN IKKE BEGRENSET TIL, DE UNDERFORSTÅTTE GARANTIER OG / ELLER BETINGELSER FOR SALGBARHET, NØYDIG KVALITET, EGNETHET FOR ET SÆRLIG FORMÅL, NØYAKTIGHET, KVALITET, KVITITET, KVALITET KALDTEKNOLOGI GARANTERER IKKE AT FUNKSJONENE I, ELLER TJENESTER UTFØRT ELLER LEVERT AV, PROGRAMVAREN MØTT KRAVENE DINE, AT DRIFTEN AV PROGRAMVAREN ELLER TJENESTENE VIL VÆRE UNRRUPTED ELLER FEILFRI, ELLER RETTES. INGEN MUNTLIG ELLER SKRIFTLIG INFORMASJON ELLER RÅD GJORT AV SØKNADSLEVERANDØR ELLER DENNE GODKJENTE REPRESENTANT SKAL GJØRE GARANTI. NOEN JURISDIKSJONER TILLATER IKKE UTELUKKELSE AV UNDERFORSTÅTTE GARANTIER ELLER BEGRENSNINGER PÅ GJELDENDE LOVGIVNINGSRETTIGHETER FOR EN FORBRUKER, SÅ OVENSTÅENDE EKSKLUSJON OG BEGRENSNINGER KAN IKKE GJELDE FOR DEG.
+LIMITATION OF LIABILITY
+
+DU ERKJENNER OG ER ENIG I AT DET FOR FULLSTE UTSTYRET TILLATT AV ALLE GJELDENDE LOV, FORBEHOLDET FOR ANSVAR INNEHOLDT I DENNE GJELDER FOR ALLE OG ALLE SKADER ELLER SKADER SOM OGSÅ FORÅRSAKET ELLER BRUKT AV BRUK, ELLER BRUKT TIL BRUK TILTAK UTENLIG JURISDIKSJON, INKLUDERT, UTEN BEGRENSNING, TILTAK FOR GARANTIBRUK, KONTRAKT ELLER VILKÅR (INKLUDERT UTLØSELIGHET) OG AT KALDTEKNOLOGI IKKE ER ANSVARLIG FOR ALLE INDIREKTE, TILFELLE, SPESIELLE, SPESIELLE AV RESULTATER, GOODWILL ELLER DATA, PÅ ALLE MÅTER DER OVERVÅKNING PÅ PROGRAMVAREN ER BRUKT, ELLER MULIGHET TIL Å BRUKE. HELE ANSVARET FOR KALDTEKNOLOGI OG NOE AV DENNE FIRKSJONER ELLER DATTERSELSKAPER I UNDER ENHETS BESTEMMELSE AV DENNE EULAEN OG DIN EKSKLUSIVE RETTSMIDDEL FOR ALT FREMTIDIG, BEGRENSES TIL BELØPET SOM faktisk BETALES AV DIG FOR PROGRAMVAREN. DE FREMTIDIGE BEGRENSNINGENE, UNDTAKELSENE OG FRASKRIVELSENE GJELDER I MAKSIMALT OMFANG TILLATT I GJELDENDE LOV, SELV OM EN LØSNING MISLYKKER DET VESENTLIGE FORMålet. NOEN JURISDIKSJONER TILLATER IKKE UTELUKKELSE AV ANSVAR FOR VISSE TYPER AV SKADER, DERFOR KAN NOGEN AV OVENNE BEGRENSNINGER I DELEN IKKE GJELDE FOR DEG.
+
+GENERELL
+
+Denne lisensavtalen er underlagt lovene i staten California, USA uten hensyn til lovkonfliktprinsipper. FNs konvensjon for internasjonalt salg av varer gjelder ikke. Denne lisensavtalen er hele avtalen mellom deg og Lime Technology angående emnet her, og erstatter vilkårene for eventuelle bestillinger og annen kommunikasjon eller reklame med hensyn til programvaren. Hvis noen bestemmelse i denne lisensavtalen holdes ugyldig, skal resten av denne lisensavtalen fortsette med full kraft og virkning. Denne EULA kan bare endres etter skriftlig avtale signert av autoriserte representanter for deg og Lime Technology.
+
+KONTAKTINFORMASJON
+
+Hvis du har spørsmål om denne lisensavtalen, eller hvis du vil kontakte Lime Technology av en eller annen grunn, kan du rette all korrespondanse til:
+
+Lime Technology, Inc.
+160 S Old Springs Rd
+Ste 100-A
+Anaheim, CA 92808
+support@lime-technology.com.
+
+Unraid er et registrert varemerke (#4,406,621) fra Lime Technology, Inc.
+
+Ferdig
