@@ -144,8 +144,6 @@ USB Devices=USB Enheter
 Your system has booted with the PCIe ACS Override setting enabled=Systemet ditt har startet med innstillingen PCIe ACS Overstyring aktivert
 
 :diagnostics_1_plug:
-Dette verktøyet brukes til feilsøkingsformål. Den vil samle all systeminformasjon og konfigurasjonsfiler, og pakke disse filene i en enkelt ZIP-fil som kan lagres lokalt. Deretter kan denne filen inkluderes i korrespondansen din med Limetech eller Unraid-forumet.
-
 Dette vil hjelpe andre med å raskt få innsiden av systemet ditt og gi bedre støtte til problemet ditt. Følgende informasjon og konfigurasjonsfiler samles inn:
 :end
 
@@ -166,44 +164,44 @@ Dette vil hjelpe andre med å raskt få innsiden av systemet ditt og gi bedre st
   <br>save a SMART report of each individual disk present in your system.
 + *Docker*
   <br>save files *docker.log*, *libvirtd.log*, *libvirt/qemu/\*.log* and *vfio-pci*.
-:end
+:
 
 :diagnostics_3_plug:
-Clicking **Download** will start the collection process and then instruct your browser to save the zip file locally.
+Hvis du klikker på ** Last ned **, starter innsamlingsprosessen og instruerer nettleseren din om å lagre zip-filen lokalt.
 
-*No personal information such as user names, passwords, or any other file contents not specified above is included
-by Unraid OS; however, your server name, IP address, and user share names* **will** *be included.*
+* Ingen personlig informasjon som brukernavn, passord eller annet filinnhold som ikke er spesifisert ovenfor er inkludert
+av Unraid OS; servernavnet, IP-adressen og brukernavnet * ** vil imidlertid være inkludert. *
 
-*Note that 3rd-party plugins **may** or may not store personal information in plugin-specific configuration files and/or output
-to the system log.*
+* Vær oppmerksom på at tredjeparts plugins ** kan ** eller kanskje ikke lagrer personlig informasjon i pluginspesifikke konfigurasjonsfiler og / eller utdata
+til systemloggen. *
 
-*Use* **Anonymize diagnostics** *when publishing the diagnostics file in the public forum. In private communication with Limetech it is recommended to uncheck this setting and capture all information unaltered.*
-:end
+* Bruk * ** Anonymiser diagnostikk ** * når du publiserer diagnosefilen i det offentlige forumet. I privat kommunikasjon med Limetech anbefales det å fjerne merket for denne innstillingen og fange all informasjon uret. *
+:slutt
 
-:newconfig_plug:
-This is a utility to reset the array disk configuration so that all disks appear as "New" disks, as
-if it were a fresh new server.
+: newconfig_plug:
+Dette er et verktøy for å tilbakestille arraydiskkonfigurasjonen slik at alle diskene vises som "Nye" disker, som
+hvis det var en fersk ny server.
 
-This is useful when you have added or removed multiple drives and wish to rebuild parity based on
-the new configuration.
+Dette er nyttig når du har lagt til eller fjernet flere stasjoner og ønsker å gjenoppbygge paritet basert på
+den nye konfigurasjonen.
 
-Use the *'Preserve current assignments'* selection to populate the desired disk slots ***after*** the array has been reset. By default **no** disk slots are populated.
+Bruk valget * 'Bevar gjelde tilordninger' * for å fylle ut de ønskede diskplassene *** etter at *** matrisen er tilbakestilt. Som standard er ** ingen ** diskplasser fylt.
 
-**DO NOT USE THIS UTILITY THINKING IT WILL REBUILD A FAILED DRIVE** - it will have the opposite
-effect of making it ***impossible*** to rebuild an existing failed drive - you have been warned!
-:end
+** IKKE BRUK DETTE NYTTET TENKER DET GJENTILBYGGER EN MISLUKKET DRIVE ** - den vil ha det motsatte
+effekten av å gjøre det *** umulig *** å gjenoppbygge en eksistere mislykket stasjon - du har blitt advart!
+:slutt
 
 :newperms_1_plug:
-This is a mandatory one-time action to be taken after upgrading from a pre-5.0 Unraid server release to Unraid v5 or a later release.
-Select **ALL DISKS** when performing this one-time action.
+Dette er en obligatorisk engangshandling som skal utføres etter oppgradering fra en pre-5.0 Unraid-serverutgivelse til Unraid v5 eller en senere utgivelse.
+Velg ** ALLE DISKER ** når du utfører denne engangshandlingen.
 
-This utility is also useful for restoring default ownership/permissions on files and
-directories when transitioning back from Active Directory to non-Active Directory integration.
+Dette verktøyet er også nyttig for å gjenopprette standard eierskap / tillatelser til filer og
+kataloger når du går tilbake fra Active Directory til ikke-Active Directory-integrering.
 
-The utility starts a background process that goes to each of your data disks and cache disks and selected user shares
-and changes file and directory ownership to *nobody/users* (i.e., uid/gid to 99/100), and sets permissions
-as follows:
-:end
+Verktøyet starter en bakgrunnsprosess som går til hver av datadiskene og hurtigbufferdiskene og valgte brukerandeler
+og endrer eierskap til fil og katalog til * ingen / brukere * (dvs. uid / gid til 99/100), og setter tillatelser
+som følger:
+:
 
 :newperms_2_plug:
 For directories:
@@ -214,99 +212,99 @@ For read/write files:
 
 For readonly files:
   -r--r--r--
-:end
+:
 
 :newperms_3_plug:
-Clicking **Start** will open another window and start the background process.
+Ved å klikke ** Start ** åpnes et nytt vindu for og starte bakgrunnsprosessen.
 
-Closing the window before completion will terminate the background process - so don't do that. This process can take a long time if you have many files.
+Å lukke vinduet før ferdigstillelse vil avslutte bakgrunnsprosessen - så ikke gjør det. Denne prosessen kan ta lang tid hvis du har mange filer.
 
-Note that this tool may negatively affect any docker containers if you allow your appdata share to be included.
-:end
+Vær oppmerksom på at dette verktøyet kan påvirke alle dockercontainere negativt hvis du lar appdata-delen din inkluderes.
+:
 
 :registration_1_plug:
-Your server will not be usable until you purchase a Registration key or install a free 30-day *Trial* key. A *Trial*
-key provides all the functionality of a *Pro* Registration key.
+Serveren din vil ikke være brukbar før du kjøper en registreringsnøkkel eller installerer en gratis 30-dagers * prøve * -nøkkel. En * prøveperiode *
+-tasten gir all funksjonaliteten til en * Pro * registreringsnøkkel.
 
-Registration keys are bound to your USB Flash boot device serial number (GUID).  Please use a high quality name brand device
-at least 1GB in size.
+Registreringsnøkler er bundet til USB Flash-oppstartsenhetens serienummer (GUID). Bruk en merkevareenhet av høy kvalitet
+minst 1 GB i størrelse.
 
-Note: USB memory card readers are generally **not** supported because most do not present unique serial numbers.
-:end
+Merk: USB-minnekortlesere støttes vanligvis ikke ** fordi de fleste ikke har unike serienumre.
+:
 
 :registration_2_plug:
-+ Please make sure your [server time](DateTime) is accurate to within 5 minutes.
-+ Please make sure there is a [DNS server](NetworkSettings) specified.
-:end
++ Forsikre deg om at [servertiden] (DateTime) er nøyaktig innen 5 minutter.
++ Forsikre deg om at det er angitt en [DNS-server] (NetworkSettings).
+:
 
 :registration_3_plug:
-Your *Trial* key includes all the functionality and device support of a *Pro* Registration key.
+* Trial * -nøkkelen inneholder all funksjonalitet og enhetsstøtte til en * Pro * registreringsnøkkel.
 
-After your *Trial* key has reached expiration, your server **still functions normally** until the next time you **Stop** the array.
+Etter at * prøve * -nøkkelen har utløpt, fungerer serveren din ** fortsatt normalt ** til neste gang du ** stopper ** array.
 
-At that point, you may either purchase a Registration key, or request a *Trial* extension.
-:end
+På det tidspunktet kan du enten kjøpe en registreringsnøkkel eller be om en * prøve * utvidelse.
+:
 
 :registration_4_plug:
-To continue using Unraid OS you may purchase a Registration key. Alternately, you may request a *Trial* extension key.
+For å fortsette å bruke Unraid OS kan du kjøpe en registreringsnøkkel. Alternativt kan du be om en * prøve * utvidelsesnøkkel.
 
-Most *Trial* extension requests are processed immediately but please allow up to one business day to receive your *Trial* extension key.
-:end
+De fleste * prøve * utvidelsesforespørsler behandles umiddelbart, men det kan ta opptil en virkedag å motta * prøve * utvidelsesnøkkelen.
+:
 
 :registration_5_plug:
-It is not possible to use a *Trial* key with an existing Unraid OS installation.
+Det er ikke mulig å bruke en * prøve * -nøkkel med en eksisterende Unraid OS-installasjon.
 
-You may purchase a Registration key corresponding to this USB Flash device to continue using this installation.
+Du kan kjøpe en registreringsnøkkel som tilsvarer denne USB Flash-enheten for å fortsette å bruke denne installasjonen.
 
-For more information, please [Contact Support](https://lime-technology.com/contact).
-:end
+For mer informasjon, vennligst [Kontakt Support](https://lime-technology.com/contact).
+:
 
 :registration_6_plug:
-It appears that your Registration key file is corrupted or missing.  The key file should be located in the
-[config](/Registration/Browse?dir&#61;/boot/config) directory on your USB Flash boot device.
+Det ser ut til at registreringsnøkkelfilen din er ødelagt eller mangler. Nøkkelfilen skal være plassert i
+[config] (/Registration/Browse?dir&#61;/boot/config) katalog på USB Flash-oppstartsenheten.
 
-If you do not have a backup copy of your Registration key file, [Contact Support](https://lime-technology.com/contact).
+Hvis du ikke har en sikkerhetskopi av registreringsnøkkelfilen din, [Kontakt kundestøtte] (https://lime-technology.com/contact).
 
-If this was a *Trial* installation, you may purchase a Registration key.
-:end
+Hvis dette var en * prøve * installasjon, kan du kjøpe en registreringsnøkkel.
+:
 
 :registration_7_plug:
-*Trial* installations are only valid with the originally registered USB Flash device.
+* Test * installasjoner er bare gyldige med den opprinnelig registrerte USB Flash-enheten.
 
-To continue using this installation with this USB Flash device, you may purchase a Registration key.
-:end
+For å fortsette å bruke denne installasjonen med denne USB Flash-enheten, kan du kjøpe en registreringsnøkkel.
+:
 
 :registration_8_plug:
-The Registration key file does not correspond to the USB Flash boot device.
-Please copy the correct key file to the [config](/Registration/Browse?dir&#61;/boot/config) directory
-on your USB Flash boot device. If you do not have a backup copy of your key file, [Contact Support](https://lime-technology.com/contact).
+Registreringsnøkkelfilen samsvarer ikke med USB Flash-oppstartsenheten.
+Kopier riktig nøkkelfil til katalogen [config](/Registration/Browse?dir&#61;/boot/config)
+på USB Flash-oppstartsenheten. Hvis du ikke har en sikkerhetskopi av nøkkelfilen din, [Kontakt kundestøtte] (https://lime-technology.com/contact).
 
-If you want to replace your Registration key with a new key bound to this USB Flash device, click Replace Key below. An original key may be
-replaced anytime. Thereafter, a replacement key may be replaced again after one year has passed.  If you require
-another replacement key sooner, [Contact Support](https://lime-technology.com/contact).
+Hvis du vil erstatte registreringsnøkkelen din med en ny nøkkel bundet til denne USB-flashenheten, klikker du på Erstatt nøkkel nedenfor. En original nøkkel kan være
+byttes ut når som helst. Deretter kan en erstatningsnøkkel skiftes ut igjen etter ett år. Hvis du trenger det
+en annen erstatningsnøkkel tidligere, [Kontakt support] (https://lime-technology.com/contact).
 
-**Note:** Replacing a Registration key results in permanently *blacklisting* the previous USB Flash GUID.
-:end
+** Merk: ** Bytte av en registreringsnøkkel resulterer i permanent * svarteliste * forrige USB Flash GUID.
+:
 
 :registration_9_plug:
-This USB Flash boot device has been *blacklisted*. This can occur as a result of transfering your Registration key to
-a replacement USB Flash device, and you are currently booted from your old USB Flash device.
+TUSB Flash-oppstartsenheten er * svartelistet *. Dette kan oppstå som et resultat av overføring av registreringsnøkkelen til
+en erstatning for USB Flash-enhet, og du er for øyeblikket startet opp fra din gamle USB Flash-enhet.
 
-A USB Flash device may also be *blacklisted* if there is no serial number, or if we discover the serial number
-is not unique (this is common with USB card readers).
+En USB-flashenhet kan også være * svartelistet * hvis det ikke er noe serienummer, eller hvis vi oppdager serienummeret
+er ikke unik (dette er vanlig med USB-kortlesere).
 
-For more information, please [Contact Support](https://lime-technology.com/contact).
-:end
-
-; New entries - 2021-03-14
-Delete all notifications=
-Downloading=
-Install Language=
-please configure=
-Uploaded=
-PCI Devices No IOMMU Groups Available=PCI Devices (No IOMMU Groups Available)
+For mer informasjon, vennligst [Kontakt Support](https://lime-technology.com/contact).
+:
 
 ; New entries - 2021-03-14
+Delete all notifications=Slett alle varsler
+Downloading=Laster ned
+Install Language=Innstaler Språk
+please configure=vennligst konfigurer
+Uploaded=Lastet opp
+PCI Devices No IOMMU Groups Available=PCI-enheter (ingen IOMMU-grupper tilgjengelig)
+
+; New entries - 2021-03-14 #no need to translate
 Array slots=
 Pool slots=
 VFIO-PCI Log=
