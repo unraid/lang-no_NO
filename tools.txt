@@ -32,7 +32,6 @@ End-User License Agreement=
 Enter URL of language pack XML file=
 Error accessing your physical USB Flash boot device=
 EULA=
-<<<<<<< Updated upstream
 Event=
 Expiration=
 Extend=
@@ -58,7 +57,6 @@ New Config=
 New Permissions=
 No notifications present=
 No personal information such as user names, passwords, or any other file contents is included in the hardware profile=No personal information such as user names, passwords, or any other file contents is included in the hardware profile
-=======
 Event=Hendelse
 Expiration=Utløpsdato
 Extend=Utvid
@@ -84,7 +82,6 @@ New Config=Ny konfigurasjon
 New Permissions=Nye tilganger
 No notifications present=Ingen varsler tilgjengelige
 No personal information such as user names, passwords, or any other file contents is included in the hardware profile=Ingen personlig informasjon som brukernavn, passord eller annet filinnhold er inkludert i maskinvareprofilen
->>>>>>> Stashed changes
 normal=
 Only ZIP files are allowed=
 Page Map=
