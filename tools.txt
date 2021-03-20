@@ -304,7 +304,7 @@ please configure=vennligst konfigurer
 Uploaded=Lastet opp
 PCI Devices No IOMMU Groups Available=PCI-enheter (ingen IOMMU-grupper tilgjengelig)
 
-; New entries - 2021-03-14 #no need to translate
+; New entries - 2021-03-14 no need to translate
 Array slots=
 Pool slots=
 VFIO-PCI Log=
