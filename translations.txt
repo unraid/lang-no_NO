@@ -607,4 +607,4 @@ ago=
 ; New entries - 2021-03-14
 %s was not signed out of your Unraidnet account=%s was not signed out of your Unraid.net account
 %s was signed out of your Unraidnet account=%s was signed out of your Unraid.net account
-remaining=
+remaining=gjenstår
