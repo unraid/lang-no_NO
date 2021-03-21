@@ -2,4 +2,4 @@ A new version of %s is available=En ny versjon av %s er tilgjengelig
 Docker=Docker
 Language=Språk
 Notice %s - Version update %s=Varsel %s - versjon oppdatering %s
-Plugin=
+Plugin=Plugin

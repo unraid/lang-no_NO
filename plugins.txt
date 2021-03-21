@@ -21,11 +21,11 @@ Release Notes=Utgivelsesnotater
 remove=fjern
 Select local plugin file=Velg lokal programtilleggsfil
 Stable=Stabil
-STALE=STABIL
+STALE=Ustabil
 Support Thread=Brukerstøtte
 Uninstall=Avinstaller
 Update All Plugins=Oppdater alle programtillegg
 Upgrade=Oppgrader
 View Release Notes=Se utgivelsesnotater
 ; New entries - 2021-03-14
-No plugins installed=
+No plugins installed=Ingen plugins installert

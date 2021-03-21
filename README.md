@@ -3,7 +3,7 @@
 ### READ THIS WHEN YOU WANT TO MAKE TRANSLATIONS TO ANOTHER LANGUAGE
 #### NORWEGIAN READme 
   Norsk oversettelse av UNRAID OS 
-  Forked av magnusengo, TibLiRoN og larsreinhardt
+  Forked av magnusengo, TibLiRoN, larsreinhardt og Allram
   
 There are sixteen text files included in this repository, each with their own section of translations:
 
