@@ -1,7 +1,10 @@
 # lang-no_NO
 
 ### READ THIS WHEN YOU WANT TO MAKE TRANSLATIONS TO ANOTHER LANGUAGE
-
+#### NORWEGIAN READme 
+  Norsk oversettelse av UNRAID OS 
+  Forked av magnusengo, TibLiRoN og larsreinhardt
+  
 There are sixteen text files included in this repository, each with their own section of translations:
 
 - translations.txt -- these are general translations and loaded each time
