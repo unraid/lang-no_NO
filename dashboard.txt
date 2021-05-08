@@ -101,5 +101,10 @@ User count %s with %s unprotected=Antall brukere: %s, med %s som er ubeskyttet
 utilization warning=plassvarsel
 View Running Processes=Se kjørende prosesser
 Virtual Machines=Virtuelle maskiner
-; New entries - 2021-03-14
+
+; New entries (1) - 2021-03-14
 Temp=Temperatur
+
+; New entries (2) - 2021-05-08
+%s ago=
+Only PNG images are allowed=Only PNG images are allowed!

@@ -56,12 +56,9 @@ Autostart disabled=Autostart deaktivert
 Missing encryption key=Mangler krypteringsnøkkel
 Opening encrypted volumes=Åpner krypterte filarkiv
 
-
-
-
-
-
-
-
-
-
+; New entries (5) - 2021-05-08
+Container Path=
+Container Port=
+Container Variable=
+Container Label=
+Container Device=

@@ -129,10 +129,8 @@ Web=Web
 WebUI=Webgrensesnitt
 Writable=Skrivetilgang
 
-; New entries - 2021-03-14
+; New entries (4) - 2021-03-14
 Drivers=Driver
 Reset sorting=Resett sortering
 Start Container After Install=Start kontainer etter installasjon
-
-; New entries - 2021-03-14
 Total size=Total størrelse

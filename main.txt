@@ -292,13 +292,21 @@ Wrong key=Feil nøkkel
 xfs_repair status=xfs reparasjonsstatus
 You may not add new disks and also remove existing disks=Du kan ikke legge til og fjerne disker samtidig
 your server=din server
-; New entries - 2021-03-14
+
+; New entries (23) - 2021-03-14
+auto=auto
 Cannot contact key-server Please check your=Kan ikke kontakt lisensserver. Vennlighst sjekk din
+Click on FLASH above this message=Klikk på **FLASH** over denne meldingen
 completed=fullført
-Erase=Slett
+Convert to raid1c3 mode=Konverter til raid1c3 modus
+Convert to raid1c4 mode=Konverter til raid1c4 modus
 Erase Device Content=Slett enhetsinnhold
+Erase=Slett
 Existing content is permanently lost=Eksisterende innhold blir permanent fjernet
+Flash device is set as public share=Flash enhet er satt som offentlig mappe
 Invalid, missing or expired=Ugyldig, mangler eller er utgått
+Please change share SMB security=Vennligst endre den delte mappen SMB sine sikkerhetsinnstillinger
+See %s Settings=Se %s Innstillinger
 SMART controller type=SMART kontroller type
 SMART notification tolerance level=SMART notifikasjonstoleransenivå
 SMART self-test in progress=SMART selvtest i gang
@@ -309,12 +317,3 @@ To confirm your action type %s=For å bekrefte skriv inn:: %s
 Too many attached devices Please consider upgrading your=For mange tilkoblede enheter. Vurder oppgradering av din
 will disable the missing disk and then bring the array on-line Install a replacement disk as soon as possible=vil deaktivere den manglende disken og sette array online. Installer en erstatningsdisk så fort som mulig
 will expand the file system of the data disk if possible then bring the array on-line and start Data-Rebuild=vil ekspandere filsystemet på datadiskene (om mulig); så vil array kjøres online og starte Data-rebygging
-
-; New entries - 2021-03-14
-auto=auto
-Click on FLASH above this message=Klikk på **FLASH** over denne meldingen
-Convert to raid1c3 mode=Konverter til raid1c3 modus
-Convert to raid1c4 mode=Konverter til raid1c4 modus
-Flash device is set as public share=Flash enhet er satt som offentlig mappe
-Please change share SMB security=Vennligst endre den delte mappen SMB sine sikkerhetsinnstillinger
-See %s Settings=Se %s Innstillinger
