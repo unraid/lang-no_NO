@@ -313,3 +313,8 @@ Array slots=
 Pool slots=
 VFIO-PCI Log=
 View VFIO-PCI Log=
+
+; New entries (3) - 2021-05-10
+Beta=
+Next=
+Stable=
