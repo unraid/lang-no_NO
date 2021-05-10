@@ -314,7 +314,6 @@ Pool slots=
 VFIO-PCI Log=
 View VFIO-PCI Log=
 
-; New entries (3) - 2021-05-10
-Beta=
+; New entries (2) - 2021-05-10
 Next=
 Stable=
