@@ -317,3 +317,8 @@ To confirm your action type %s=For å bekrefte skriv inn:: %s
 Too many attached devices Please consider upgrading your=For mange tilkoblede enheter. Vurder oppgradering av din
 will disable the missing disk and then bring the array on-line Install a replacement disk as soon as possible=vil deaktivere den manglende disken og sette array online. Installer en erstatningsdisk så fort som mulig
 will expand the file system of the data disk if possible then bring the array on-line and start Data-Rebuild=vil ekspandere filsystemet på datadiskene (om mulig); så vil array kjøres online og starte Data-rebygging
+
+; New entries (3) - 2021-07-11
+enter disk index and device name as applicable to your controller=
+next device=
+previous device=
