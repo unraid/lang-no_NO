@@ -36,8 +36,6 @@ DNS=DNS
 Docker Containers=
 Docker Hub URL=Docker HUB URL
 Docker Service failed to start=Dockertjenester kunne ikke starte
-Donation Link=Donasjonslink
-Donation Text=Donasjonstekst
 Downloaders=Nedlastere
 Edit Configuration=Rediger konfigurasjon
 Exited=Avsluttet
@@ -58,7 +56,6 @@ Icon URL=Ikon URL
 Image ID=Bilde ID
 Key=Nøkkel
 Label=Etikett
-latest=siste
 Management=Styring
 MediaApp=Mediaprogram
 MediaServer=Mediaserver
@@ -109,7 +106,6 @@ Successfully removed container=Fjerning av containere var vellykket
 Successfully removed orphan image=Fjerning av avsondede bildefiler var vellykket
 Successfully stopped container=Stopping av containere var vellykket
 Support Thread=Brukerstøtte
-Template repositories=Mal depot
 Template URL=Mal URL
 Template=Mal
 The command failed=Kommandoen feilet
@@ -132,8 +128,11 @@ Writable=Skrivetilgang
 ; New entries (4) - 2021-03-14
 Drivers=Driver
 Reset sorting=Resett sortering
-Start Container After Install=Start kontainer etter installasjon
 Total size=Total størrelse
 
 ; New entries (1) - 2021-06-12
 Crypto Currency=
+
+; New entries (2) - 2021-09-18
+Additional Requirements=
+None Listed=

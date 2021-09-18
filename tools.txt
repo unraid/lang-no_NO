@@ -103,7 +103,6 @@ This will update folder file permissions=Dette oppdaterer mappe- og filtillatels
 Time=Tid
 To install a registration key, paste the key file URL in the box below and click Install Key=For å installere en registreringsnøkkel, lim inn URL-adressen til Lisensnøkkelfilen i boksen nedenfor og klikk på **Installer Lisensnøkkelfil**
 to select your language=for å velge ditt språk
-To support more storage devices as your server grows, click Upgrade Key below=For å støtte flere lagringsenheter når serveren din vokser, klikk på *Oppgrader Lisens* nedenfor
 Trial key expires on=***Prøvelisens*** utløper den
 Trial=Prøvelisens
 Update OS=Oppdater Operativsystem

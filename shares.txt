@@ -60,6 +60,5 @@ Time Machine volume size limit=Størrelsesbegrensning på Time Machine-katalogen
 Unknown encryption state=Ukjent krypteringsmodus
 Use cache pool for new filesdirectories=Benytt buffer diskgruppe for nye filer/kataloger
 User Shares=Delte mapper
-Volume dbpath=Katalog db-sti
 Write=Skriv
 You cannot use the following within share names=Du kan ikke bruke følgende i mappenavn

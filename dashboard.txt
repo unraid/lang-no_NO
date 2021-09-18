@@ -1,5 +1,4 @@
 %s used of %s %s %%=%s brukt av %s (%s %%)
----=
 Active tunnels=Aktive tunneller
 Activity=Aktivitet
 ago=siden
@@ -26,7 +25,6 @@ FAN=Vifte
 Finding %s error=Fant **%s** feil
 Finding %s errors=Fant **%s** feil
 General info=Generell info
-Go to cache settings=Gå til bufferinnstillinger
 Go to CPU pinning settings=Gå til CPU trådfordeling
 Go to disk settings=Gå til diskinnstillinger
 Go to Docker settings=Gå til Dockerinnstillinger
