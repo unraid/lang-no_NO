@@ -2,7 +2,10 @@
 anonymous=anonym
 Author=Forfatter
 Check For Updates=Se etter oppdateringer
+Checking connectivty=
+checking=
 Click here to install version %s=Klikk for å installere %s
+Delete Plugin=
 DOWNGRADE TO VERSION=NEDGRADER TIL VERSJON
 Enter URL of remote plugin file or local plugin file=Skriv inn URL til programtillegget (ekstern eller lokal)
 ERROR=FEIL
@@ -13,11 +16,16 @@ Installed Plugins=Installerte programtillegg
 Installing Update=Installerer oppdatering
 need check=trenger en sjekk
 Next=Neste
+No plugins installed=Ingen plugins installert
 No release notes available=Ingen utgivelsesnotater er tilgjengelig
+No response, aborting=
 Plugin File=Programtilleggsfil
+Plugin File Install Errors=
+Plugin History=
 Plugin Update Check=Programtillegg oppdateringssjekk
 Plugin=Programtillegg
 Release Notes=Utgivelsesnotater
+Remove Plugin=
 remove=fjern
 Select local plugin file=Velg lokal programtilleggsfil
 Stable=Stabil
@@ -25,24 +33,8 @@ STALE=Ustabil
 Support Thread=Brukerstøtte
 Uninstall=Avinstaller
 Update All Plugins=Oppdater alle programtillegg
+Update Plugin=
 Upgrade=Oppgrader
 View Release Notes=Se utgivelsesnotater
 
-; New entries (1) - 2021-03-14
-No plugins installed=Ingen plugins installert
-
-; New entries (2) - 2021-05-09
-Checking connectivty=
-No response, aborting=
-
-; New entries (1) - 2021-05-10
-checking=
-
-; New entries (3) - 2021-05-10
-Delete Plugin=
-Remove Plugin=
-Update Plugin=
-
-; New entries (2) - 2021-05-15
-Plugin File Install Errors=
-Plugin History=
+; Note: November 14, 2021 - 8 missing translations

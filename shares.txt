@@ -16,7 +16,7 @@ Compute=Beregn
 Disk Shares=Delte disker
 Do not use reserved names=Ikke bruk reserverte navn
 Do not use pool names=Ikke bruk diskgruppenavn
-Enable Copy-on-write=Skru på "Copy-on-write"
+Enable Copy-on-write=Skru på "Copy-on-write" 
 Enter a name for the share=Gi den delte mappen et navn
 Excluded disks=Ekskluderte disker
 Export=Eksporter
@@ -62,3 +62,5 @@ Use cache pool for new filesdirectories=Benytt buffer diskgruppe for nye filer/k
 User Shares=Delte mapper
 Write=Skriv
 You cannot use the following within share names=Du kan ikke bruke følgende i mappenavn
+
+; Note: November 14, 2021 - 5 missing translations

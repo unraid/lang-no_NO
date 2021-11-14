@@ -24,6 +24,7 @@ Ok=Ok
 Pause=Pause
 Proceed=Fortsett
 Project Page=Prosjektside
+Read Me First=
 Remove container=Fjern container
 Remove definition=Fjern definisjoner
 Remove image=Fjern bildefil
@@ -56,12 +57,11 @@ Autostart disabled=Autostart deaktivert
 Missing encryption key=Mangler krypteringsnøkkel
 Opening encrypted volumes=Åpner krypterte filarkiv
 
-; New entries (5) - 2021-05-08
+; docker variables
 Container Path=
 Container Port=
 Container Variable=
 Container Label=
 Container Device=
 
-; New entries (1) - 2021-11-14
-Read Me First=
+; Note: November 14, 2021 - 6 missing translations
