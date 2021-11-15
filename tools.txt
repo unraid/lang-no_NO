@@ -181,7 +181,6 @@ and configuration files are collected:
   <br>save a SMART report of each individual disk present in your system.
 + *Docker*
   <br>save files *docker.log*, *libvirtd.log*, *libvirt/qemu/\*.log* and *vfio-pci*.
-
 :end
 
 :diagnostics_3_plug:
@@ -314,4 +313,4 @@ is not unique (this is common with USB card readers).
 For more information, please [Contact Support](https://lime-technology.com/contact).
 :end
 
-; Note: November 14, 2021 - 7 missing translations
+; Note: November 15, 2021 - 7 missing translations

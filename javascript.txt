@@ -9,6 +9,7 @@ day=dag
 days=dager
 disk image and definition=bildefil og definisjoner
 Disks=Disker
+Donate=
 Done=Ferdig
 Edit=Rediger
 Execution error=Kjørefeil
@@ -64,4 +65,4 @@ Container Variable=
 Container Label=
 Container Device=
 
-; Note: November 14, 2021 - 6 missing translations
+; Note: November 15, 2021 - 7 missing translations
