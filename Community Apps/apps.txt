@@ -388,4 +388,4 @@ View Missing Translations=
 ; WebGui
 Click Install to download and install the Community Applications plugin=Click **Install** to download and install the **Community Applications** plugin
 
-; Note: November 15, 2021 - 128 missing translations
+; Note: November 15, 2021 - 127 missing translations
