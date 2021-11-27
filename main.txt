@@ -175,7 +175,6 @@ registration key=registreringsnøkkel
 Registration Key Manager=Administrer registreringsnøkker
 reiserfsck status=reiserfsck status
 Rename Pool=Gi diskgruppen nytt navn
-Rename=Gi nytt navn
 Repair corrupted blocks=Reparer korrupte blokker
 Replacement disk installed=Erstatningsdisk installert
 Replacement disk is too small=Erstatningsdisk er for liten
