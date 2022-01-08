@@ -132,4 +132,4 @@ Web=Web
 WebUI=Webgrensesnitt
 Writable=Skrivetilgang
 
-; Note: November 16, 2021 - 6 missing translations
+; Note: November 18, 2021 - 6 missing translations
