@@ -1,5 +1,6 @@
 A format is NEVER part of a data recovery or disk rebuild process and if done in such circumstances will normally lead to loss of all data on the disks being formatted=En formatering er **ALDRI** en del av datagjenoppretting eller en gjenoppbygningsprosess og vil kunne lede til tap av data på diskene som blir formatert.
 Aborted=Avbrutt
+Action=
 Add=Legg til
 Add Pool=Legg til diskgruppe
 All existing data on this device will be OVERWRITTEN when array is Started=Alle eksiterende data på denne enheten vil bli SLETTET når arrayet blir startet
@@ -55,6 +56,7 @@ Critical disk utilization threshold=Kritisk diskutnyttelsesgrense
 Current operation %s on %s=Gjeldende operasjon %s på **%s**
 Current position=Gjeldende posisjon
 Custom attributes use comma to separate numbers=Egendefinerte attributter (bruk komma for å separere verdier)
+Data-Rebuild in progress=
 Date of purchase=Kjøpsdato
 Date=Dato
 Delete Pool=Slett diskgruppe
@@ -153,6 +155,7 @@ Parity-Check in progress=Paritetskontroll pågår
 Parity Operation History=
 ParityRead-Check History=Paritets-/Lesekontroll historikk
 Parity-SyncData-Rebuild in progress=Paritetssynkronisering/Datagjenoppretting pågår
+Parity-Sync in progress=
 Partition format=Partisjonsformat
 Partition size=Partisjonsstørrelse
 Passed=Bestått
@@ -340,4 +343,4 @@ System in sleep mode=
 This will put the system in sleep mode=
 wiki entry=
 
-; Note: February 8, 2022 - 30 missing translations
+; Note: February 8, 2022 - 33 missing translations
