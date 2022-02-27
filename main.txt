@@ -258,6 +258,7 @@ Unmountable Missing encryption key=Umonterbar: Mangler krypteringsnøkkel
 Unmountable No file system=Umonterbar: Ingen filsystem
 Unmountable No pool uuid=Umonterbar: Ingen diskgruppe uuid
 Unmountable not btrfs pool=Umonterbar: ingen btrfs diskgruppe
+Unmountable Unsupported or no file system=Unmountable: Unsupported or no file system
 Unmountable Volume not encrypted=Umonterbar: Volumet er ikke kryptert
 Unmounted=Umontert
 Upgrading diskswapping parity=Oppgraderer disk/bytter paritet
@@ -347,4 +348,4 @@ System in sleep mode=
 This will put the system in sleep mode=
 wiki entry=
 
-; Note: February 25, 2022 - 37 missing translations
+; Note: February 27, 2022 - 37 missing translations
