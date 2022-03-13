@@ -113,6 +113,8 @@ Information=Informasjon
 Insufficient free disk space available=Ikke nok tilgjengelig diskplass
 Interrupted=Avbrutt
 Invalid configuration=Ugyldig konfigurasjon
+invalid device=
+invalid devices=
 Invalid expansion=Ugyldig utvidelse
 Invalid pool name=Ugyldig navn på diskgruppe
 Invalid, missing or expired=Ugyldig, mangler eller er utgått
@@ -348,4 +350,4 @@ System in sleep mode=
 This will put the system in sleep mode=
 wiki entry=
 
-; Note: March 11, 2022 - 36 missing translations
+; Note: March 13, 2022 - 38 missing translations

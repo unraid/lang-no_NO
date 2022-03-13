@@ -37,4 +37,4 @@ Update Plugin=
 Upgrade=Oppgrader
 View Release Notes=Se utgivelsesnotater
 
-; Note: March 11, 2022 - 8 missing translations
+; Note: March 13, 2022 - 8 missing translations

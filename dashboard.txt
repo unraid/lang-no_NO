@@ -111,4 +111,4 @@ utilization warning=plassvarsel
 View Running Processes=Se kjørende prosesser
 Virtual Machines=Virtuelle maskiner
 
-; Note: March 11, 2022 - 9 missing translations
+; Note: March 13, 2022 - 9 missing translations
