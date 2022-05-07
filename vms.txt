@@ -37,14 +37,17 @@ free=Ledig
 Graphics Card=Grafikkort
 Graphics ROM BIOS=Grafikk ROM BIOS
 Graphics=Grafikk
+Guest not running or guest agent not installed=
 Host Passthrough=Vert Passthrough
 Hyperv tweaks for Windows=Hyperv justeringer for Windows
 Hyper-V=Hyper-V
 i440fx will work for most=i440fx vil virke for de fleste
 Icon=Ikon
 Initial=Første
+Interfaces=
 Invalid storage path=
 Invalid VM to edit=Ugyldig VM til å redigere?? 
+IP Address=
 ISO storage path doesnt exist=ISO lagringssti finnes ikke
 ISO storage path doesnt exist, please create the user share or empty folder first=ISO storage path doesn't exist, please create the user share (or empty folder) first
 ISO storage path was empty=ISO lagringssti var tom
@@ -84,6 +87,7 @@ Path to ROM BIOS file=Sti til ROM BIOS fil
 Please choose a folder the LibreELEC image will download to=Vennligst velg mappen som LibreELEC bildefilen skal lastes ned til
 Please choose a folder the OpenELEC image will download to=Vennligst velg mappen som OpenELEC bildefilen skal lastes ned til
 Pop-up Blocker is enabled Please add this site to your exception list=Pop-up Blocker is enabled! Please add this site to your exception list
+Prefix=
 Primary=Hoved
 Q35 for a newer machine model with PCIE=Q35 for en nyere maskin med PCIE
 QEMU64=QEMU64
@@ -138,4 +142,4 @@ Windows 7XP=Windows 7/XP
 Windows 82012, newer Linux distros=Windows 8/2012, nyere Linux distroer
 XML View=XML Visning
 
-; Note: April 2, 2022 - 5 missing translations
+; Note: May 7, 2022 - 9 missing translations
