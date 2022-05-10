@@ -2,7 +2,7 @@
 anonymous=anonym
 Author=Forfatter
 Check For Updates=Se etter oppdateringer
-Checking connectivty=
+Checking connectivity=
 checking=
 Click here to install version %s=Klikk for å installere %s
 Delete Plugin=
