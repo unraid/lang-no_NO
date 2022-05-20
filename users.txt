@@ -22,7 +22,7 @@ Show Hide password=Vis/skjul passord
 SSH authorized keys=
 Syntax of the key is incorrect=
 Use a password up to 128 characters=Bruk et passord med opptil 128 tegn
-Use only lowercase letters, digits, underscores and dashes=Bruk kun små bokstaver, tall, under- og bindestreker 
+Use only lowercase letters, digits, underscores and dashes=Bruk kun små bokstaver, tall, under- og bindestreker
 User %s has been deleted=Brukeren %s er slettet
 User name=Brukernavn
 
