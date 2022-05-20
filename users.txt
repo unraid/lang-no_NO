@@ -26,4 +26,4 @@ Use only lowercase letters, digits, underscores and dashes=Bruk kun små bokstav
 User %s has been deleted=Brukeren %s er slettet
 User name=Brukernavn
 
-; Note: May 7, 2022 - 7 missing translations
+; Note: May 20, 2022 - 7 missing translations
