@@ -63,4 +63,4 @@ User Shares=Delte mapper
 Write=Skriv
 You cannot use the following within share names=Du kan ikke bruke følgende i mappenavn
 
-; Note: May 20, 2022 - 5 missing translations
+; Note: May 26, 2022 - 5 missing translations
