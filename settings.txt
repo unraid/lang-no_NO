@@ -463,6 +463,7 @@ Oops=
 optional metric lowest is preferred, 0 is no default gateway=egendefinert egenskap (lavest - best, 0 er standard gateway)
 optional metric lowest is preferred=egendefinert egenskap (lavest - best)
 or=
+Output voltage=
 Page view=Side visning
 Parity Check=Paritets sjekk
 Password=Passord
@@ -571,6 +572,7 @@ Shutdown VMs=Avslutt Virtuelle Maskiner
 shutdown=
 Sign In to Unraidnet required=Sign In to Unraid.net required
 Simple=Enkle
+Slave=
 Small=Liten
 Smart=
 SMB Extras=SMB ekstra
@@ -760,4 +762,4 @@ Transient errors in this log can be ignored unless you are having issues=
 Unraid API extra origins=
 View Flash Backup Error Log=
 
-; Note: June 6, 2022 - 209 missing translations
+; Note: September 16, 2022 - 211 missing translations
