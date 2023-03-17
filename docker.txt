@@ -7,8 +7,8 @@ Always=Alltid
 App to Host=Program til Vert
 Application=Program
 apply update=Legg til oppdatering
-Array must be Started to view Docker containers=Arrayet må være **startet** for å se Dockercontainere
 Are you sure=Er du sikker
+Array must be Started to view Docker containers=Arrayet må være **startet** for å se Dockercontainere
 Autostart=Autostart
 Back=Tilbake
 Backup=Sikkerhetskopi
@@ -59,6 +59,7 @@ Icon URL=Ikon URL
 Image ID=Bilde ID
 Key=Nøkkel
 Label=Etikett
+Lock sortable items=
 Management=Styring
 MediaApp=Mediaprogram
 MediaServer=Mediaserver
@@ -119,6 +120,7 @@ The command finished successfully=Kommandoen fullførte
 TOTAL DATA PULLED=
 Total size=Total størrelse
 Unknown action=Ukjent handling
+Unlock sortable items=
 Update All=Oppdater alle
 update ready=oppdatering er klar
 Value=Verdi
@@ -132,4 +134,4 @@ Web=Web
 WebUI=Webgrensesnitt
 Writable=Skrivetilgang
 
-; Note: June 6, 2022 - 6 missing translations
+; Note: March 17, 2023 - 8 missing translations

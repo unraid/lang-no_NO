@@ -1,4 +1,5 @@
 %s An update is available=%s: En oppdatering er tilgjengelig
+Alert Message=
 anonymous=anonym
 Author=Forfatter
 Check For Updates=Se etter oppdateringer
@@ -19,13 +20,14 @@ Next=Neste
 No plugins installed=Ingen plugins installert
 No release notes available=Ingen utgivelsesnotater er tilgjengelig
 No response, aborting=
-Plugin File=Programtilleggsfil
 Plugin File Install Errors=
+Plugin File=Programtilleggsfil
 Plugin History=
 Plugin Update Check=Programtillegg oppdateringssjekk
 Plugin=Programtillegg
 Release Notes=Utgivelsesnotater
 Remove Plugin=
+Remove Selected Plugins=
 remove=fjern
 Select local plugin file=Velg lokal programtilleggsfil
 Stable=Stabil
@@ -37,4 +39,4 @@ Update Plugin=
 Upgrade=Oppgrader
 View Release Notes=Se utgivelsesnotater
 
-; Note: June 6, 2022 - 8 missing translations
+; Note: March 17, 2023 - 10 missing translations
