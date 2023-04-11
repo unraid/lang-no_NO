@@ -35,8 +35,9 @@ STALE=Ustabil
 Support Thread=Brukerstøtte
 Uninstall=Avinstaller
 Update All Plugins=Oppdater alle programtillegg
+Update Incompatible=
 Update Plugin=
 Upgrade=Oppgrader
 View Release Notes=Se utgivelsesnotater
 
-; Note: March 17, 2023 - 10 missing translations
+; Note: April 11, 2023 - 11 missing translations

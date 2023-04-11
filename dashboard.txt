@@ -94,6 +94,7 @@ Parity disks not present=Paritetsdisker er ikke til stede
 Parity has not been checked yet=Paritet har ikke blitt kontrollert
 Parity Information=
 Parity is degraded=Pariteten er degradert
+Pool=
 Power Status=
 Power=Strøm
 Processor Information=
@@ -141,4 +142,4 @@ VPN Connections=
 Warnings=
 ZFS=
 
-; Note: March 17, 2023 - 39 missing translations
+; Note: April 11, 2023 - 40 missing translations
