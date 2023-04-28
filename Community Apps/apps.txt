@@ -37,7 +37,6 @@ No Matching Applications Found=Ingen samsvarende applikasjoner funnet
 ; Install Plugin title of openbox
 Install Plugin=Installer programtillegg
 
-The sidebar for the app click info will list the details=The sidebar for the app (click info) will list the details
 
 
 ; Remove App from previously installed
@@ -167,7 +166,6 @@ MediaAppOther=MediaApp:Andre
 MediaServerBooks=MediaServer:Bøker
 MediaServerMusic=MediaServer:Musikk
 MediaServerPhotos=MediaServer:Bilder
-MediaServerVideo=MediaServer:Video
 MediaServerOther=MediaServer:andre
 Network=Nettverk
 NetworkDNS=Nettverk:DNS
@@ -234,7 +232,6 @@ Setting installed applications to autostart=Angi installerte applikasjoner til a
 Docker Application Installation finished=Installasjonen av Docker-applikasjonen er fullført
 
 ; Application Cards
-This application is a driver plugin=This application is a driver (plugin)
 Remove Application From List=Fjern Applkasjon fra listen
 Check off to select multiple reinstalls=Kryss av for å velge flere installasjoner på nytt
 Go to the plugin settings=Gå til programtilleggs innstillinger
@@ -265,12 +262,10 @@ Click here to view the language changelog=Klikk her for å se språkpakkens endr
 ; Update Checks
 
 ; dockerHub conversions
-Would you like CA to attempt to determine any applicable paths, ports, and variables for the template This will entail performing a test installation of the container It will be automatically deleted after processing The container will not be started=Would you like CA to attempt to determine any applicable paths, ports, and variables for the template?  This will entail performing a test installation of the container.  It will be automatically deleted after processing.  The container will not be started.
 ; WebGui
-Click Install to download and install the Community Applications plugin=Click **Install** to download and install the **Community Applications** plugin
 
 
-; Note: April 28, 2023 - 180 missing translations
+; Note: April 29, 2023 - 185 missing translations
 Docker system failed to start - Only Plugins Available To Be Installed Or Managed=
 Array not started - Only Plugins Available To Be Installed Or Managed=
 Debugging enabled This significantly increases the memory used by your browser=
@@ -325,6 +320,7 @@ Added=
 Update Plugin=
 Requirements not met=
 The requirements for this upgrade have not been met on your system=
+The sidebar for the app click info will list the details=The sidebar for the app (click info) will list the details
 BACK=
 Pin App=
 Unpin App=
@@ -383,6 +379,7 @@ Spotlight=
 System=
 MediaApp=
 MediaServer=
+MediaServerVideo=MediaServer:Video
 and %s more=
 This application has additional requirements=
 Additional Requirements=
@@ -408,6 +405,7 @@ Favourite=
 Application Type=
 Actions=
 Pending=
+This application is a driver plugin=This application is a driver (plugin)
 This is a language pack=
 This application is a docker container=
 This application is a plugin=
@@ -450,4 +448,6 @@ Checking for plugin updates=
 Checking for language updates=
 Checking %s=
 Determine configuration=
+Would you like CA to attempt to determine any applicable paths, ports, and variables for the template This will entail performing a test installation of the container It will be automatically deleted after processing The container will not be started=Would you like CA to attempt to determine any applicable paths, ports, and variables for the template?  This will entail performing a test installation of the container.  It will be automatically deleted after processing.  The container will not be started.
 An error occurred - Could not determine configuration=
+Click Install to download and install the Community Applications plugin=Click **Install** to download and install the **Community Applications** plugin
