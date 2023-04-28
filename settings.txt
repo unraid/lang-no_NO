@@ -65,6 +65,7 @@ Bonding members of=
 Bonding mode=
 boost=
 Both=Begge
+Both Web Virt-Manager Remote Viewer=Both Web & Virt-Manager Remote Viewer
 bottom-left=bunn-venstre
 bottom-right=bunn-høyre
 Bridging members of=
@@ -110,6 +111,7 @@ Confirm sleep command=Bekreft dvale komando
 Confirmations=Bekreftelse
 connect to any device on the VPN tunnel=
 connect to this server using IP address=
+Console Options=
 Container=Kontainer
 Content=Innhold
 Correct file system errors=
@@ -726,6 +728,7 @@ View libvirt log=Vis libvirt logger
 View Local Config=
 View Peer Config=
 view=vis
+Virt-Manager Remote Viewer=
 VLAN assignment mismatch=VLAN tildelings forvirring
 VLAN number=VLAN nummer
 VM Manager=
@@ -743,6 +746,7 @@ VPN tunneled access=
 WAN Port=WAN Port
 Warnings=Advarsler
 Watts=
+Web interface=
 Week of the month=Uke av måned
 Weekly=Ukentlig
 WireGuard Configuration=
@@ -809,4 +813,4 @@ Transient errors in this log can be ignored unless you are having issues=
 Unraid API extra origins=
 View Flash Backup Error Log=
 
-; Note: April 18, 2023 - 250 missing translations
+; Note: April 28, 2023 - 254 missing translations

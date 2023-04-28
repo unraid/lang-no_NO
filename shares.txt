@@ -11,6 +11,8 @@ Automatically split only the top level directory as required=
 Automatically split only the top three directory levels as required=
 Automatically split only the top two directory levels as required=
 Calculated free space value=
+Clean Up=
+CLEAN UP=
 Comments=Kommentarer
 Compute All=Beregn Alle
 Compute=Beregn
@@ -41,14 +43,19 @@ Mover transfers files from cache to array=Mover flytter filer fra buffer til arr
 Mover transfers files from Primary storage to Secondary storage=
 Mover transfers files from Secondary storage to Primary storage=
 next user share=Neste delte mappe
+No unused share configurations present=
 Not used=
 Only=Kun
 Prefer=Foretrekk
 previous user share=forrige delte mappe
 Primary storage for new files and folders=Primary storage (for new files and folders)
+Primary storage to Secondary storage=
 Read=Les
 Recompute=Beregn på nytt
+Remove unused share configurations=
+Removed share configurations=
 Rule=Regel
+Secondary storage to Primary storage=
 Secondary storage=
 Select cache pool=Velg buffer diskgruppe
 Set when adding new share only=Angi når du bare legger til ny delt mappe
@@ -72,4 +79,4 @@ User Shares=Delte mapper
 Write=Skriv
 You cannot use the following within share names=Du kan ikke bruke følgende i mappenavn
 
-; Note: April 18, 2023 - 13 missing translations
+; Note: April 28, 2023 - 20 missing translations
