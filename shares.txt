@@ -59,7 +59,7 @@ User Shares=Delte mapper
 Write=Skriv
 You cannot use the following within share names=Du kan ikke bruke følgende i mappenavn
 
-; Note: April 28, 2023 - 20 missing translations
+; Note: April 28, 2023 - 21 missing translations
 Automatically split only the top five directory levels as required=
 Automatically split only the top four directory levels as required=
 Automatically split only the top level directory as required=
@@ -74,6 +74,7 @@ Mover transfers files from Primary storage to Secondary storage=
 Mover transfers files from Secondary storage to Primary storage=
 No unused share configurations present=
 Not used=
+Primary storage %s=
 Primary storage to Secondary storage=
 Remove unused share configurations=
 Removed share configurations=
