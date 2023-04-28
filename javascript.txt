@@ -48,7 +48,6 @@ Yes=Ja
 Array Starting=Starter arrayet
 Array Stopping=Stopper arrayet
 Mounting disks=Monterer disker
-Retry unmounting user shares=Retry unmounting user share(s)
 Spinning up all drives=Spinner opp alle disker
 Starting services=Starter tjenester
 Stopping services=Stopper tjenester
@@ -59,11 +58,12 @@ Opening encrypted volumes=Åpner krypterte filarkiv
 
 ; docker variables
 
-; Note: April 28, 2023 - 13 missing translations
+; Note: April 29, 2023 - 14 missing translations
 Donate=
 Read Me First=
 Array Copying=
 Array Clearing=
+Retry unmounting user shares=Retry unmounting user share(s)
 Stale configuration=
 Starting Recycle Bin=
 Stopping Recycle Bin=
