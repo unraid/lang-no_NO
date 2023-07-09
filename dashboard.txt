@@ -101,7 +101,7 @@ utilization warning=plassvarsel
 View Running Processes=Se kjørende prosesser
 Virtual Machines=Virtuelle maskiner
 
-; Note: April 29, 2023 - 41 missing translations
+; Note: July 9, 2023 - 44 missing translations
 %s ago=
 1 m=
 10 s=
@@ -134,8 +134,11 @@ Power Status=
 Processor Information=
 Select time frame=
 Shares Information=
+ShowHide All Content=Show/Hide All Content
+ShowHide Content=Show/Hide Content
 SMART health-check failed=
 This may leave an unknown state=
+Tile Management=
 Unassigned Devices=
 Unlock sortable items=
 UPS Model=

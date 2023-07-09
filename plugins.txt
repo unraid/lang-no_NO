@@ -29,11 +29,12 @@ Update All Plugins=Oppdater alle programtillegg
 Upgrade=Oppgrader
 View Release Notes=Se utgivelsesnotater
 
-; Note: April 28, 2023 - 11 missing translations
+; Note: July 9, 2023 - 12 missing translations
 Alert Message=
 Checking connectivity=
 checking=
 Delete Plugin=
+I have read the release notes=
 No response, aborting=
 Plugin File Install Errors=
 Plugin History=
