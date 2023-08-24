@@ -362,17 +362,17 @@ Wrong Pool State=
 xfs_repair status=xfs reparasjonsstatus
 You may not add new disks and also remove existing disks=Du kan ikke legge til og fjerne disker samtidig
 your server=din server
-zfs pool status=
-zfs=
+zfs pool status=ZFS status
+zfs=zfs
 
 ; Sleep plugin translations
-Check this=
-for more information=
-Make sure your server supports S3 sleep=
-Sleep will immediately put the server in sleep mode=**Sleep** will immediately put the server in sleep mode
-Sleeping=
-System in sleep mode=
-This will put the system in sleep mode=
-wiki entry=
+Check this=Sjekk dette
+for more information=for mer informasjon
+Make sure your server supports S3 sleep=Sørg for at serveren din støtter S3 sleep
+Sleep will immediately put the server in sleep mode=**Hvilemodus** vil umiddelbart sette serveren i hvilemodus
+Sleeping=Hvilemodus
+System in sleep mode=System i hvilemodus
+This will put the system in sleep mode=Dette bil sette systemet i hvilemodus
+wiki entry=wiki-innlegg
 
 ; Note: April 29, 2023 - 77 missing translations

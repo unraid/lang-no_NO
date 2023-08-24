@@ -30,15 +30,15 @@ Upgrade=Oppgrader
 View Release Notes=Se utgivelsesnotater
 
 ; Note: July 9, 2023 - 12 missing translations
-Alert Message=
-Checking connectivity=
-checking=
-Delete Plugin=
-I have read the release notes=
-No response, aborting=
-Plugin File Install Errors=
-Plugin History=
-Remove Plugin=
-Remove Selected Plugins=
-Update Incompatible=
-Update Plugin=
+Alert Message=Varselmelding
+Checking connectivity=Sjekker tilkobling
+checking=sjekker
+Delete Plugin=Slett plugin
+I have read the release notes=Jeg har lest versjonsnotatene
+No response, aborting=Ingen respons, avbryter
+Plugin File Install Errors=Installasjonsfeil for plugin
+Plugin History=Plugin historikk
+Remove Plugin=Fjern plugin
+Remove Selected Plugins=Fjern valgte plugins
+Update Incompatible=Oppdatering er inkompatibel
+Update Plugin=Oppdater plugin
