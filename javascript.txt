@@ -59,17 +59,17 @@ Opening encrypted volumes=Åpner krypterte filarkiv
 ; docker variables
 
 ; Note: April 29, 2023 - 14 missing translations
-Donate=
-Read Me First=
-Array Copying=
-Array Clearing=
-Retry unmounting user shares=Retry unmounting user share(s)
-Stale configuration=
-Starting Recycle Bin=
-Stopping Recycle Bin=
-Sync filesystems=
-Container Path=
-Container Port=
-Container Variable=
-Container Label=
-Container Device=
+Donate=Doner
+Read Me First=Les meg først
+Array Copying=Array kopierer
+Array Clearing=Array renser
+Retry unmounting user shares=Prøver på nytt å unmounte brukermappe(r)
+Stale configuration=Ugyldig konfigurasjon
+Starting Recycle Bin=Starter Søppelbøtte
+Stopping Recycle Bin=Stopper Søppelbøtte
+Sync filesystems=Synkroniserer filsystemer
+Container Path=Container Filsti
+Container Port=Container Port
+Container Variable=Container Variabel
+Container Label=Container Label
+Container Device=Container Enhet

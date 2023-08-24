@@ -19,11 +19,11 @@ User %s has been deleted=Brukeren %s er slettet
 User name=Brukernavn
 
 ; Note: April 29, 2023 - 8 missing translations
-Click Add User to create a user for remote shares access=Klikk **Legg til bruker** for å opprette en bruker for eksterne delinger access
+Click Add User to create a user for remote shares access=Klikk **Legg til bruker** for å opprette en bruker for ekstern tilgang til brukermapper
 Invalid Key=Ugyldig nøkkel
 Management Access=Administrasjonstilgang
 No users are defined=Ingen brukere er definert
 Save=lagre
-Shares Access=Tilganger til shares
+Shares Access=Tilganger til brukermapper
 SSH authorized keys=SSH-autoriserte nøkler
 Syntax of the key is incorrect=Syntaksen til nøkkelen er feil
