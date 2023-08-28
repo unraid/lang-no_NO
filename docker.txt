@@ -127,11 +127,11 @@ WebUI=Webgrensesnitt
 Writable=Skrivetilgang
 
 ; Note: April 28, 2023 - 8 missing translations
-Additional Requirements=
-Crypto Currency=
-Docker Containers=
-Lock sortable items=
-None Listed=
-Read Me First=
-TOTAL DATA PULLED=
-Unlock sortable items=
+Additional Requirements=Tilleggskrav
+Crypto Currency=Kryptovaluta
+Docker Containers=Docker Containere
+Lock sortable items=Lås sorterbare elementer
+None Listed=Ingen listed opp
+Read Me First=Les meg først
+TOTAL DATA PULLED=TOTALT DATA HENTET
+Unlock sortable items=Lås opp sorterbare elementer
