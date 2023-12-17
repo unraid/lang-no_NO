@@ -61,10 +61,10 @@ Date of purchase=Kjøpsdato
 Date=Dato
 Delete Pool=Slett diskgruppe
 detected=oppdaget
-Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode (spun-down)
+Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode (spun-down)
 Device encrypted and unlocked=Enheten er kryptert og opplåst
 Device encrypted=Enheten er kryptert
-Device is missing disabled=Device is missing disabled=Device is missing disabled=Device is missing (disabled)
+Device is missing disabled=Device is missing (disabled)
 Device is part of a pool=Enheten er en del av en diskgruppe
 Device locked unknown error=Enheten er låst: Ukjent feil
 Device locked wrong encryption key=Enheten er låst, feil krypteringsnøkkel
