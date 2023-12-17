@@ -182,9 +182,9 @@ Printable Characters Only=Kun utskrivbare tegn
 Proceed to start=Fortsett til start
 Raw Value=Råverdi
 Raw View=Råvisning
-Read-Check in progress=Lesesjekk pågår
 Read errors corrected=Lesefeil rettet
 Read errors detected=Lesefeil oppdaget
+Read-Check in progress=Lesesjekk pågår
 Reading=Leser
 Reboot in safe mode=Restart i sikkermodus
 Registration Key Manager=Administrer registreringsnøkker
@@ -346,6 +346,7 @@ your server=din server
 zfs pool status=ZFS status
 zfs=zfs
 
+
 ; Sleep plugin translations
 Check this=Sjekk dette
 for more information=for mer informasjon
@@ -356,9 +357,23 @@ System in sleep mode=System i hvilemodus
 This will put the system in sleep mode=Dette bil sette systemet i hvilemodus
 wiki entry=wiki-innlegg
 
-; Note: November 16, 2023 - 19 missing translations
+; Note: December 17, 2023 - 39 missing translations
+Add Subpool=
+Add ZFS Subpool=
 Attributes not available=
+cache - Cache Devices=
+Critical NVME temperature threshold=
+Critical SSD temperature threshold=
+dedup - Deduplication Tables=
+Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode (spun-down)
+Device contents invalid=
+Device is disabled=
+Device is missing disabled=Device is missing disabled=Device is missing disabled=Device is missing (disabled)
 Identity is not available=
+logs - ZFS Intent Log=
+Missing pool disk=
+Power=
+Power=
 raid0=
 raid1=
 raid10=
@@ -369,10 +384,16 @@ raid6=
 raidz=
 raidz2=
 raidz3=
+spares - Hot Spares=
+special - Special Allocation Class=
 Unmountable Unsupported or no file system=Unmountable: Unsupported or no file system
+W=
+Warning NVME temperature threshold=
+Warning SSD temperature threshold=
 will bring the array on-line and start Data-Rebuild=will bring the array on-line and start **Data-Rebuild**
 will bring the array on-line and start Disk-Clear of new data disks=will bring the array on-line and start **Disk-Clear** of new data disk(s)
 will bring the array on-line and start Parity-Sync=will bring the array on-line and start **Parity-Sync**
+will remove the missing pool disk and then bring the array on-line=
 will start Data-Rebuild=will start **Data-Rebuild**
 will start Disk-Clear of new data disks=will start **Disk-Clear** of new data disk(s)
 will start Parity-Sync=will start **Parity-Sync**
