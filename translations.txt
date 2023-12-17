@@ -254,7 +254,6 @@ Online Manual=Internettmanual
 Online manual=Internettmanual
 OpenSSL=OpenSSL
 optional=valgfri
-Options for Block $action=
 Other Comment=Andre kommentarer
 Other information=Annen informasjon
 Parity device is disabled=Paritetsenheten er deaktivert
