@@ -61,10 +61,8 @@ Date of purchase=Kjøpsdato
 Date=Dato
 Delete Pool=Slett diskgruppe
 detected=oppdaget
-Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode (spun-down)
 Device encrypted and unlocked=Enheten er kryptert og opplåst
 Device encrypted=Enheten er kryptert
-Device is missing disabled=Device is missing (disabled)
 Device is part of a pool=Enheten er en del av en diskgruppe
 Device locked unknown error=Enheten er låst: Ukjent feil
 Device locked wrong encryption key=Enheten er låst, feil krypteringsnøkkel
@@ -359,7 +357,7 @@ System in sleep mode=System i hvilemodus
 This will put the system in sleep mode=Dette bil sette systemet i hvilemodus
 wiki entry=wiki-innlegg
 
-; Note: December 17, 2023 - 36 missing translations
+; Note: December 17, 2023 - 38 missing translations
 Add Subpool=
 Add ZFS Subpool=
 Attributes not available=
@@ -367,8 +365,10 @@ cache - Cache Devices=
 Critical NVME temperature threshold=
 Critical SSD temperature threshold=
 dedup - Deduplication Tables=
+Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode (spun-down)
 Device contents invalid=
 Device is disabled=
+Device is missing disabled=Device is missing (disabled)
 Identity is not available=
 logs - ZFS Intent Log=
 Missing pool disk=
