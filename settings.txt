@@ -301,6 +301,7 @@ Generate Key=Generer nøkkel
 Generate Keypair=Generer nøkkelpar
 Global Share Settings=Globale delings innstillinger
 Global SMART Settings=Globale SMART Instillinger
+GRUB Configuration=
 Header custom background color=Overskrifts bakgrunnsfarge
 Header custom meta text color=Overskrifts meta tekstfarge
 Header custom secondary text color=Overskrifts sekundær tekstfarge
@@ -859,4 +860,4 @@ Transient errors in this log can be ignored unless you are having issues=Forbig�
 Unraid API extra origins=Unraid API ekstra opprinnelse
 View Flash Backup Error Log=Vis Flash Backup-feillogg
 
-; Note: December 17, 2023 - 60 missing translations
+; Note: December 25, 2023 - 61 missing translations
