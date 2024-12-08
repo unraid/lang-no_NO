@@ -167,7 +167,7 @@ Default appdata storage location=Standard appdata lagrings lokasjon
 Default critical disk temperature threshold=Standard kritisk disk temperatur nivå
 Default critical disk utilization threshold=Standard kritisk disk bruk nivå
 Default critical SSD temperature threshold=
-Default file system=Standard filsystem
+Default file system for Array disks=
 Default ISO storage path=Standard ISO lagrings lokasjon
 Default network bridge=Standard netverksbro
 Default network source=Standard nettverkskilde
@@ -216,6 +216,7 @@ Docker LOG maximum file size=Docker LOGG Maks størrelse
 Docker LOG number of files=Docker LOGG antall filer
 Docker LOG rotation=Docker LOGG rotasjon
 Docker only=Bare docker
+Docker PID Limit=
 Docker service=Dockertjeneste
 Docker Stop Timeout=Docker Stopper Timeout
 Docker update notification=Docker oppdateringsvarsel
@@ -860,4 +861,4 @@ Transient errors in this log can be ignored unless you are having issues=Forbig�
 Unraid API extra origins=Unraid API ekstra opprinnelse
 View Flash Backup Error Log=Vis Flash Backup-feillogg
 
-; Note: December 25, 2023 - 61 missing translations
+; Note: December 8, 2024 - 63 missing translations

@@ -145,8 +145,9 @@ VPN Connections=VPN Tilkoblinger
 Warnings=Advarsler
 ZFS=ZFS
 
-; Note: December 25, 2023 - 30 missing translations
+; Note: December 8, 2024 - 37 missing translations
 Check free space=
+checking=
 Clock is unsynchronized with no NTP servers=
 Clock synchronized with %s NTP server=
 Clock synchronized with %s NTP servers=
@@ -155,9 +156,12 @@ Containers=
 Docker folder=
 Docker vdisk=
 Edit VM after clone=
+emulated=
 Flash device=
 Free=
 Go to date and time settings=
+heat warnings=
+invalid=
 Legend=
 Log filesystem=
 New VM=
@@ -169,9 +173,12 @@ Percent usage of flash usb device=
 Percent usage of LOG file system=
 RAM usage=
 Services=
+SMART errors=
 Snapshot Name=
 Snapshot=
 Start Cloned VM=
+synching=
+utilization warnings=
 VM Being Cloned=
 VM Clone=
 VM Name=
