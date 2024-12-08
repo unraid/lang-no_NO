@@ -22,6 +22,7 @@ BTRFS operation is running=BTRFS-operasjoner kjører
 btrfs scrub status=btrfs rengjøringsstatus
 Canceled=Avbrutt
 Cannot contact key-server Please check your=Kan ikke kontakt lisensserver. Vennligst sjekk din
+Caution=**Caution**
 Capabilities not available=Egenskaper er ikke tilgjengelige
 Capabilities=Egenskaper
 Check Filesystem Status=Status på filsystemsjekk
@@ -355,7 +356,7 @@ System in sleep mode=System i hvilemodus
 This will put the system in sleep mode=Dette bil sette systemet i hvilemodus
 wiki entry=wiki-innlegg
 
-; Note: December 8, 2024 - 53 missing translations
+; Note: December 8, 2024 - 52 missing translations
 Add Subpool=
 Add ZFS Subpool=
 After renaming the pool, check that your shares are assigned to the proper primary and secondary storage locations=
@@ -363,7 +364,6 @@ After upgrading the volume may not be mountable in previous versions of Unraid=
 Attributes not available=
 btrfs filesystem usage=
 cache - Cache Devices=
-Caution=**Caution**
 Critical NVME temperature threshold=
 Critical SSD temperature threshold=
 dedup - Deduplication Tables=
