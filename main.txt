@@ -22,9 +22,9 @@ BTRFS operation is running=BTRFS-operasjoner kjører
 btrfs scrub status=btrfs rengjøringsstatus
 Canceled=Avbrutt
 Cannot contact key-server Please check your=Kan ikke kontakt lisensserver. Vennligst sjekk din
-Caution=**Caution**
 Capabilities not available=Egenskaper er ikke tilgjengelige
 Capabilities=Egenskaper
+Caution=**Caution**
 Check Filesystem Status=Status på filsystemsjekk
 Clear Stats=Nullstill statistikk
 Clearing in progress=Nullstilling pågår
@@ -345,7 +345,6 @@ your server=din server
 zfs pool status=ZFS status
 zfs=zfs
 
-
 ; Sleep plugin translations
 Check this=Sjekk dette
 for more information=for mer informasjon
@@ -356,7 +355,7 @@ System in sleep mode=System i hvilemodus
 This will put the system in sleep mode=Dette bil sette systemet i hvilemodus
 wiki entry=wiki-innlegg
 
-; Note: December 8, 2024 - 52 missing translations
+; Note: December 28, 2024 - 58 missing translations
 Add Subpool=
 Add ZFS Subpool=
 After renaming the pool, check that your shares are assigned to the proper primary and secondary storage locations=
@@ -364,6 +363,7 @@ After upgrading the volume may not be mountable in previous versions of Unraid=
 Attributes not available=
 btrfs filesystem usage=
 cache - Cache Devices=
+cache - L2ARC=
 Critical NVME temperature threshold=
 Critical SSD temperature threshold=
 dedup - Deduplication Tables=
@@ -375,8 +375,12 @@ Dirty log detected=
 File system corruption detected=
 Fix=
 Identity is not available=
+Ineligible to run this version of Unraid OS Please consider extending your=Ineligible to run this version of Unraid OS. Please consider extending your
+logs - Separate Intent Log SLOG=logs - Separate Intent Log (SLOG)
 logs - ZFS Intent Log=
 Missing pool disk=
+No array devices have been assigned=
+No devices=
 No file system corruption detected=
 Power=
 raid0=
@@ -391,6 +395,7 @@ raidz2=
 raidz3=
 Renaming the pool will change the share storage allocations=
 spares - Hot Spares=
+special - Metadata storage=
 special - Special Allocation Class=
 The ZFS volume will be upgraded=
 This operation cannot be reversed=
