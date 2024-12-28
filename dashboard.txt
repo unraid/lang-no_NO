@@ -95,6 +95,7 @@ Parity has not been checked yet=Paritet har ikke blitt kontrollert
 Parity Information=Paritetsinformasjon
 Parity is degraded=Pariteten er degradert
 Pool=Pool
+Popup Blocked=Popup Blocked.
 Power Status=Strømstatus
 Power=Strøm
 Processor Information=Prosessorinformasjon
@@ -145,7 +146,7 @@ VPN Connections=VPN Tilkoblinger
 Warnings=Advarsler
 ZFS=ZFS
 
-; Note: December 28, 2024 - 53 missing translations
+; Note: December 28, 2024 - 50 missing translations
 Check free space=
 checking=
 Clock is synchronized using NTP, time offset is %s %s=
@@ -180,7 +181,6 @@ Percent usage of Docker folder=
 Percent usage of Docker vdisk=
 Percent usage of flash usb device=
 Percent usage of LOG file system=
-Popup Blocked=Popup Blocked.
 RAM usage=
 RX=
 Services=
