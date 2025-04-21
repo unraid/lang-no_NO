@@ -146,7 +146,7 @@ VPN Connections=VPN Tilkoblinger
 Warnings=Advarsler
 ZFS=ZFS
 
-; Note: December 29, 2024 - 52 missing translations
+; Note: April 21, 2025 - 53 missing translations
 Check free space=
 checking=
 Clock is synchronized using %s NTP servers, time offset is %s %s=
@@ -186,6 +186,7 @@ Percent usage of LOG file system=
 RAM usage=
 RX=
 Services=
+Share count %s with %s public SMB and %s public NFS=Share count: %s with %s public SMB and %s public NFS
 SMART errors=
 Snapshot Name=
 Snapshot=
